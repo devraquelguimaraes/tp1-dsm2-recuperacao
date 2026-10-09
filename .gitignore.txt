@@ -1,0 +1,17 @@
+
+# Eclipse - workspace
+.metadata/
+
+# Configurações pessoais do Eclipse
+.settings/
+
+# Java - arquivos compilados
+*.class
+bin/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
